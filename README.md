@@ -1,8 +1,6 @@
 # Telnet テキストブラウザ（Playwright レンダリング）
 
-このプロジェクトは、Telnet 経由で操作できる簡易テキストブラウザです。
-Web ページを Playwright（Chromium）で描画した後の DOM を取得し、端末座標にレイアウトして表示します。
-画像（`<img>` / CSS `background-image`）は ASCII アートとして表示できます。
+このプロジェクトは、Telnet 経由で操作できる簡易テキストブラウザです。Web ページを Playwright（Chromium）で描画した後の DOM を取得し、端末座標にレイアウトして表示します。画像（`<img>` / CSS `background-image`）は ASCII アートとして表示できます。
 
 ## 主な機能
 - **検索**
